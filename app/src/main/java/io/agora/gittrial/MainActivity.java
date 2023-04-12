@@ -13,5 +13,8 @@ public class MainActivity extends AppCompatActivity {
 
         System.out.println("Changes 1 by faizan/master");
         System.out.println("Change 1 by master itself");
+        System.out.println("Changes 1 by faizan only");
+        System.out.println("Changes made by the master branch");
+        System.out.println("This line will be merge");
     }
 }
