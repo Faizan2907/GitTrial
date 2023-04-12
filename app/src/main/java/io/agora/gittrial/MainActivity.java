@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         System.out.println("Changes 1 by faizan");
+        System.out.println("Changes made by the master branch");
     }
 }
