@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         System.out.println("Changes 1 by faizan");
+        System.out.println("Change 1 by master itself");
     }
 }
